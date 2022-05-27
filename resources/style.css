@@ -4,9 +4,16 @@ body {
     }
 
 h1 {
-   font: Verdana
+   font-family: Verdana;
    Color: white;
-   font-size: 50px;
+   font-size: 50 px;
+}
+
+h2 {
+    font-family: Verdana;
+    color: white;
+    font-size: 42 px;
+    font-weight: 300;
 }
 
 a {
