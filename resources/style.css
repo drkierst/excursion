@@ -1,7 +1,15 @@
-h1{
+h1 {
    text-align: center;
 }
 
-#soon{
+a {
     text-align: center;
+      color: Aquamarine;
+      font-size: 16px;
+    }
+}
+
+video {
+  display: block;
+  margin: auto;
 }
